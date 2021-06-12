@@ -1,0 +1,533 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+    <manifest filename="D:\eclipse-workspace\PaneraiGarminWatchFace\manifest.xml"/>
+    <pcToLineNum>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogGoalView.mc" id="3" lineNum="21" pc="268435456" symbol="initialize"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogGoalView.mc" id="3" lineNum="22" pc="268435460" symbol="initialize"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogGoalView.mc" id="3" lineNum="24" pc="268435478" symbol="initialize"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogGoalView.mc" id="3" lineNum="26" pc="268435491" symbol="initialize"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogGoalView.mc" id="3" lineNum="27" pc="268435509" symbol="initialize"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogGoalView.mc" id="3" lineNum="28" pc="268435534" symbol="initialize"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogGoalView.mc" id="3" lineNum="29" pc="268435552" symbol="initialize"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogGoalView.mc" id="3" lineNum="30" pc="268435577" symbol="initialize"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogGoalView.mc" id="3" lineNum="31" pc="268435595" symbol="initialize"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogGoalView.mc" id="4" lineNum="37" pc="268435621" symbol="onLayout"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogGoalView.mc" id="4" lineNum="39" pc="268435625" symbol="onLayout"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogGoalView.mc" id="5" lineNum="44" pc="268435638" symbol="onUpdate"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogGoalView.mc" id="5" lineNum="45" pc="268435642" symbol="onUpdate"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogGoalView.mc" id="5" lineNum="47" pc="268435659" symbol="onUpdate"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogGoalView.mc" id="5" lineNum="48" pc="268435672" symbol="onUpdate"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogGoalView.mc" id="5" lineNum="50" pc="268435685" symbol="onUpdate"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogGoalView.mc" id="5" lineNum="51" pc="268435702" symbol="onUpdate"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogGoalView.mc" id="5" lineNum="53" pc="268435733" symbol="onUpdate"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogGoalView.mc" id="5" lineNum="56" pc="268435809" symbol="onUpdate"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogGoalView.mc" id="5" lineNum="57" pc="268435845" symbol="onUpdate"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogGoalView.mc" id="5" lineNum="60" pc="268435871" symbol="onUpdate"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogGoalView.mc" id="5" lineNum="61" pc="268435907" symbol="onUpdate"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogGoalView.mc" id="5" lineNum="64" pc="268436076" symbol="onUpdate"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogGoalView.mc" id="5" lineNum="65" pc="268436112" symbol="onUpdate"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogGoalView.mc" id="5" lineNum="68" pc="268436166" symbol="onUpdate"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogSettingsMenu.mc" id="7" lineNum="15" pc="268436227" symbol="initialize"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogSettingsMenu.mc" id="7" lineNum="16" pc="268436231" symbol="initialize"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogSettingsMenu.mc" id="9" lineNum="24" pc="268436269" symbol="initialize"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogSettingsMenu.mc" id="9" lineNum="25" pc="268436273" symbol="initialize"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogSettingsMenu.mc" id="10" lineNum="30" pc="268436292" symbol="onSelect"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogSettingsMenu.mc" id="10" lineNum="31" pc="268436296" symbol="onSelect"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogApp.mc" id="12" lineNum="16" pc="268436335" symbol="initialize"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogApp.mc" id="12" lineNum="17" pc="268436339" symbol="initialize"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogApp.mc" id="13" lineNum="22" pc="268436358" symbol="onStart"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogApp.mc" id="14" lineNum="27" pc="268436363" symbol="onStop"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogApp.mc" id="15" lineNum="32" pc="268436368" symbol="getInitialView"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogApp.mc" id="15" lineNum="33" pc="268436372" symbol="getInitialView"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogApp.mc" id="15" lineNum="34" pc="268436387" symbol="getInitialView"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogApp.mc" id="15" lineNum="35" pc="268436415" symbol="getInitialView"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogApp.mc" id="15" lineNum="36" pc="268436445" symbol="getInitialView"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogApp.mc" id="15" lineNum="38" pc="268436475" symbol="getInitialView"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogApp.mc" id="16" lineNum="45" pc="268436517" symbol="getGoalView"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogApp.mc" id="16" lineNum="46" pc="268436521" symbol="getGoalView"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogApp.mc" id="17" lineNum="51" pc="268436565" symbol="getSettingsView"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogApp.mc" id="17" lineNum="52" pc="268436569" symbol="getSettingsView"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogView.mc" id="19" lineNum="29" pc="268436645" symbol="initialize"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogView.mc" id="19" lineNum="30" pc="268436649" symbol="initialize"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogView.mc" id="19" lineNum="31" pc="268436667" symbol="initialize"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogView.mc" id="19" lineNum="32" pc="268436696" symbol="initialize"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogView.mc" id="19" lineNum="33" pc="268436706" symbol="initialize"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogView.mc" id="20" lineNum="38" pc="268436733" symbol="onLayout"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogView.mc" id="20" lineNum="41" pc="268436737" symbol="onLayout"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogView.mc" id="20" lineNum="45" pc="268436784" symbol="onLayout"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogView.mc" id="20" lineNum="46" pc="268436808" symbol="onLayout"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogView.mc" id="20" lineNum="48" pc="268436858" symbol="onLayout"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogView.mc" id="20" lineNum="52" pc="268436867" symbol="onLayout"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogView.mc" id="20" lineNum="56" pc="268436882" symbol="onLayout"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogView.mc" id="20" lineNum="71" pc="268437054" symbol="onLayout"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogView.mc" id="20" lineNum="76" pc="268437151" symbol="onLayout"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogView.mc" id="20" lineNum="79" pc="268437160" symbol="onLayout"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogView.mc" id="23" lineNum="159" pc="268438593" symbol="onUpdate"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogView.mc" id="23" lineNum="160" pc="268438597" symbol="onUpdate"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogView.mc" id="23" lineNum="161" pc="268438610" symbol="onUpdate"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogView.mc" id="23" lineNum="162" pc="268438627" symbol="onUpdate"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogView.mc" id="23" lineNum="165" pc="268438630" symbol="onUpdate"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogView.mc" id="23" lineNum="166" pc="268438640" symbol="onUpdate"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogView.mc" id="23" lineNum="167" pc="268438650" symbol="onUpdate"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogView.mc" id="23" lineNum="168" pc="268438657" symbol="onUpdate"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogView.mc" id="23" lineNum="171" pc="268438669" symbol="onUpdate"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogView.mc" id="23" lineNum="173" pc="268438685" symbol="onUpdate"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogView.mc" id="23" lineNum="176" pc="268438689" symbol="onUpdate"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogView.mc" id="23" lineNum="177" pc="268438702" symbol="onUpdate"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogView.mc" id="23" lineNum="180" pc="268438715" symbol="onUpdate"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogView.mc" id="23" lineNum="181" pc="268438751" symbol="onUpdate"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogView.mc" id="23" lineNum="184" pc="268438795" symbol="onUpdate"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogView.mc" id="23" lineNum="185" pc="268438831" symbol="onUpdate"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogView.mc" id="23" lineNum="191" pc="268439027" symbol="onUpdate"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogView.mc" id="23" lineNum="194" pc="268439041" symbol="onUpdate"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogView.mc" id="23" lineNum="195" pc="268439051" symbol="onUpdate"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogView.mc" id="23" lineNum="196" pc="268439085" symbol="onUpdate"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogView.mc" id="23" lineNum="200" pc="268439124" symbol="onUpdate"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogView.mc" id="23" lineNum="203" pc="268439160" symbol="onUpdate"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogView.mc" id="23" lineNum="204" pc="268439191" symbol="onUpdate"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogView.mc" id="23" lineNum="205" pc="268439201" symbol="onUpdate"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogView.mc" id="23" lineNum="207" pc="268439224" symbol="onUpdate"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogView.mc" id="23" lineNum="210" pc="268439272" symbol="onUpdate"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogView.mc" id="23" lineNum="211" pc="268439307" symbol="onUpdate"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogView.mc" id="23" lineNum="214" pc="268439355" symbol="onUpdate"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogView.mc" id="23" lineNum="215" pc="268439391" symbol="onUpdate"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogView.mc" id="23" lineNum="216" pc="268439424" symbol="onUpdate"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogView.mc" id="23" lineNum="217" pc="268439460" symbol="onUpdate"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogView.mc" id="23" lineNum="220" pc="268439493" symbol="onUpdate"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogView.mc" id="23" lineNum="221" pc="268439503" symbol="onUpdate"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogView.mc" id="23" lineNum="222" pc="268439510" symbol="onUpdate"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogView.mc" id="23" lineNum="223" pc="268439546" symbol="onUpdate"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogView.mc" id="23" lineNum="224" pc="268439590" symbol="onUpdate"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogView.mc" id="23" lineNum="225" pc="268439643" symbol="onUpdate"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogView.mc" id="23" lineNum="226" pc="268439679" symbol="onUpdate"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogView.mc" id="23" lineNum="227" pc="268439726" symbol="onUpdate"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogView.mc" id="23" lineNum="233" pc="268439779" symbol="onUpdate"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogView.mc" id="23" lineNum="234" pc="268439789" symbol="onUpdate"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogView.mc" id="23" lineNum="235" pc="268439806" symbol="onUpdate"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogView.mc" id="23" lineNum="238" pc="268439819" symbol="onUpdate"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogView.mc" id="23" lineNum="241" pc="268439852" symbol="onUpdate"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogView.mc" id="23" lineNum="245" pc="268439882" symbol="onUpdate"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogView.mc" id="23" lineNum="248" pc="268439896" symbol="onUpdate"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogView.mc" id="23" lineNum="249" pc="268439949" symbol="onUpdate"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogView.mc" id="23" lineNum="250" pc="268439985" symbol="onUpdate"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogView.mc" id="23" lineNum="252" pc="268440045" symbol="onUpdate"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogView.mc" id="23" lineNum="255" pc="268440056" symbol="onUpdate"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogView.mc" id="23" lineNum="256" pc="268440073" symbol="onUpdate"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogView.mc" id="23" lineNum="259" pc="268440084" symbol="onUpdate"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogView.mc" id="23" lineNum="260" pc="268440120" symbol="onUpdate"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogView.mc" id="23" lineNum="262" pc="268440155" symbol="onUpdate"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogView.mc" id="23" lineNum="265" pc="268440206" symbol="onUpdate"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogView.mc" id="25" lineNum="282" pc="268440420" symbol="onPartialUpdate"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogView.mc" id="25" lineNum="286" pc="268440424" symbol="onPartialUpdate"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogView.mc" id="25" lineNum="287" pc="268440436" symbol="onPartialUpdate"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogView.mc" id="25" lineNum="290" pc="268440453" symbol="onPartialUpdate"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogView.mc" id="25" lineNum="291" pc="268440470" symbol="onPartialUpdate"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogView.mc" id="25" lineNum="292" pc="268440505" symbol="onPartialUpdate"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogView.mc" id="25" lineNum="294" pc="268440543" symbol="onPartialUpdate"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogView.mc" id="25" lineNum="295" pc="268440558" symbol="onPartialUpdate"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogView.mc" id="25" lineNum="296" pc="268440595" symbol="onPartialUpdate"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogView.mc" id="25" lineNum="297" pc="268440632" symbol="onPartialUpdate"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogView.mc" id="25" lineNum="300" pc="268440676" symbol="onPartialUpdate"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogView.mc" id="25" lineNum="301" pc="268440712" symbol="onPartialUpdate"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogView.mc" id="28" lineNum="362" pc="268441196" symbol="onEnterSleep"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogView.mc" id="28" lineNum="363" pc="268441200" symbol="onEnterSleep"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogView.mc" id="28" lineNum="364" pc="268441210" symbol="onEnterSleep"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogView.mc" id="29" lineNum="369" pc="268441227" symbol="onExitSleep"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogView.mc" id="29" lineNum="370" pc="268441231" symbol="onExitSleep"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogView.mc" id="30" lineNum="374" pc="268441242" symbol="turnPartialUpdatesOff"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogView.mc" id="30" lineNum="375" pc="268441246" symbol="turnPartialUpdatesOff"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogView.mc" id="32" lineNum="385" pc="268441257" symbol="initialize"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogView.mc" id="32" lineNum="386" pc="268441261" symbol="initialize"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogView.mc" id="32" lineNum="387" pc="268441279" symbol="initialize"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogView.mc" id="33" lineNum="396" pc="268441290" symbol="onPowerBudgetExceeded"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogView.mc" id="33" lineNum="397" pc="268441294" symbol="onPowerBudgetExceeded"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogView.mc" id="33" lineNum="398" pc="268441324" symbol="onPowerBudgetExceeded"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogView.mc" id="33" lineNum="399" pc="268441354" symbol="onPowerBudgetExceeded"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogSettingsView.mc" id="35" lineNum="16" pc="268441373" symbol="initialize"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogSettingsView.mc" id="35" lineNum="17" pc="268441377" symbol="initialize"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogSettingsView.mc" id="36" lineNum="22" pc="268441396" symbol="onUpdate"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogSettingsView.mc" id="36" lineNum="23" pc="268441400" symbol="onUpdate"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogSettingsView.mc" id="36" lineNum="24" pc="268441412" symbol="onUpdate"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogSettingsView.mc" id="36" lineNum="25" pc="268441448" symbol="onUpdate"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogSettingsView.mc" id="36" lineNum="26" pc="268441460" symbol="onUpdate"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogSettingsView.mc" id="36" lineNum="28" pc="268441496" symbol="onUpdate"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogSettingsView.mc" id="38" lineNum="36" pc="268441578" symbol="initialize"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogSettingsView.mc" id="38" lineNum="37" pc="268441582" symbol="initialize"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogSettingsView.mc" id="39" lineNum="42" pc="268441601" symbol="onMenu"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogSettingsView.mc" id="39" lineNum="43" pc="268441605" symbol="onMenu"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogSettingsView.mc" id="39" lineNum="44" pc="268441633" symbol="onMenu"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogSettingsView.mc" id="39" lineNum="45" pc="268441665" symbol="onMenu"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogSettingsView.mc" id="39" lineNum="47" pc="268441717" symbol="onMenu"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogSettingsView.mc" id="39" lineNum="48" pc="268441749" symbol="onMenu"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogSettingsView.mc" id="39" lineNum="50" pc="268441801" symbol="onMenu"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogSettingsView.mc" id="39" lineNum="51" pc="268441833" symbol="onMenu"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogSettingsView.mc" id="39" lineNum="53" pc="268441885" symbol="onMenu"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogSettingsView.mc" id="39" lineNum="54" pc="268441917" symbol="onMenu"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogSettingsView.mc" id="39" lineNum="56" pc="268441969" symbol="onMenu"/>
+        <entry filename="D:\\eclipse-workspace\\PaneraiGarminWatchFace\\source\\AnalogSettingsView.mc" id="39" lineNum="57" pc="268442025" symbol="onMenu"/>
+    </pcToLineNum>
+    <symbolTable>
+        <entry id="8388639" module="true" symbol="Graphics"/>
+        <entry id="8390101" object="true" symbol="BufferedBitmap"/>
+        <entry id="10" object="true" symbol="AnalogSettingsMenu"/>
+        <entry id="14" object="true" symbol="AnalogDelegate"/>
+        <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+        <entry id="4" module="true" symbol="globals/Rez/Menus"/>
+        <entry field="true" id="29" symbol="&lt;globals/AnalogView/&lt;&gt;_offscreenBuffer&gt;"/>
+        <entry id="37" method="true" symbol="&lt;globals/AnalogView/&lt;&gt;getBoundingBox&gt;"/>
+        <entry id="8390098" method="true" symbol="onPowerBudgetExceeded"/>
+        <entry field="true" id="20" symbol="DoNotDisturbIcon"/>
+        <entry field="true" id="27" symbol="&lt;globals/AnalogView/&lt;&gt;_screenShape&gt;"/>
+        <entry id="8390424" module="true" symbol="Storage"/>
+        <entry field="true" id="8389795" symbol="doNotDisturb"/>
+        <entry id="8388924" module="true" symbol="Gregorian"/>
+        <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+        <entry field="true" id="23" symbol="AppName"/>
+        <entry id="38" method="true" symbol="&lt;globals/AnalogView/&lt;&gt;drawBackground&gt;"/>
+        <entry id="8" module="true" symbol="globals/Rez/Strings"/>
+        <entry id="8389080" method="true" symbol="onMenu"/>
+        <entry id="8388772" module="true" object="true" symbol="Fonts"/>
+        <entry field="true" id="32" symbol="&lt;globals/AnalogView/&lt;&gt;_fullScreenRefresh&gt;"/>
+        <entry id="8388648" module="true" symbol="WatchUi"/>
+        <entry id="8390097" method="true" symbol="onPartialUpdate"/>
+        <entry id="2" module="true" symbol="globals/Rez"/>
+        <entry id="8389124" method="true" symbol="onUpdate"/>
+        <entry id="35" method="true" symbol="&lt;globals/AnalogView/&lt;&gt;drawHashMarks&gt;"/>
+        <entry id="8388771" module="true" object="true" symbol="Drawables"/>
+        <entry field="true" id="8389067" symbol="height"/>
+        <entry id="19" module="true" symbol="Menus"/>
+        <entry id="6" module="true" symbol="globals/Rez/Layouts"/>
+        <entry field="true" id="8389066" symbol="width"/>
+        <entry id="8389122" method="true" symbol="onLayout"/>
+        <entry field="true" id="28" symbol="&lt;globals/AnalogView/&lt;&gt;_dndIcon&gt;"/>
+        <entry id="8389376" method="true" symbol="onEnterSleep"/>
+        <entry id="7" module="true" symbol="globals/Rez/JsonData"/>
+        <entry field="true" id="24" symbol="&lt;globals/AnalogDelegate/&lt;&gt;_view&gt;"/>
+        <entry id="3" module="true" symbol="globals/Rez/Drawables"/>
+        <entry id="8390095" object="true" symbol="WatchFaceDelegate"/>
+        <entry field="true" id="25" symbol="&lt;globals/AnalogView/&lt;&gt;_font&gt;"/>
+        <entry id="9" object="true" symbol="AnalogGoalView"/>
+        <entry id="34" method="true" symbol="&lt;globals/AnalogView/&lt;&gt;generateHandCoordinates&gt;"/>
+        <entry id="8389377" method="true" symbol="onExitSleep"/>
+        <entry id="8388644" module="true" symbol="System"/>
+        <entry id="8389916" method="true" symbol="getGoalView"/>
+        <entry id="8389619" method="true" symbol="onSelect"/>
+        <entry id="8388645" module="true" symbol="Time"/>
+        <entry id="8388769" module="true" object="true" symbol="Rez"/>
+        <entry field="true" id="22" symbol="id_font_black_diamond"/>
+        <entry id="8388640" module="true" symbol="Lang"/>
+        <entry id="16" object="true" symbol="AnalogSettingsDelegate"/>
+        <entry id="8390088" module="true" object="true" symbol="JsonData"/>
+        <entry field="true" id="21" symbol="LauncherIcon"/>
+        <entry id="8388610" symbol="statics"/>
+        <entry id="11" object="true" symbol="AnalogSettingsMenuDelegate"/>
+        <entry id="8389350" module="true" symbol="globals"/>
+        <entry id="39" method="true" symbol="turnPartialUpdatesOff"/>
+        <entry id="8388770" module="true" object="true" symbol="Strings"/>
+        <entry field="true" id="17" symbol="&lt;globals/AnalogGoalView/&lt;&gt;_goalString&gt;"/>
+        <entry id="8388702" method="true" symbol="initialize"/>
+        <entry field="true" id="26" symbol="&lt;globals/AnalogView/&lt;&gt;_isAwake&gt;"/>
+        <entry id="8389279" method="true" symbol="onStart"/>
+        <entry id="8388641" module="true" symbol="Math"/>
+        <entry id="8391703" method="true" symbol="getSettingsView"/>
+        <entry field="true" id="31" symbol="&lt;globals/AnalogView/&lt;&gt;_screenCenterPoint&gt;"/>
+        <entry id="15" object="true" symbol="AnalogSettingsView"/>
+        <entry id="8389280" method="true" symbol="getInitialView"/>
+        <entry id="8389281" method="true" symbol="onStop"/>
+        <entry field="true" id="30" symbol="&lt;globals/AnalogView/&lt;&gt;_dateBuffer&gt;"/>
+        <entry id="18" module="true" symbol="Layouts"/>
+        <entry field="true" id="33" symbol="&lt;globals/AnalogView/&lt;&gt;_partialUpdatesAllowed&gt;"/>
+        <entry id="36" method="true" symbol="&lt;globals/AnalogView/&lt;&gt;drawDateString&gt;"/>
+        <entry id="5" module="true" symbol="globals/Rez/Fonts"/>
+        <entry id="13" object="true" symbol="AnalogView"/>
+        <entry id="8388635" module="true" symbol="Application"/>
+        <entry field="true" id="8389642" symbol="title"/>
+        <entry id="12" object="true" symbol="AnalogWatch"/>
+        <entry id="8389660" symbol="palette"/>
+    </symbolTable>
+    <localVars>
+        <entry arg="true" endPc="268435621" name="goal" stackId="1" startPc="268435456"/>
+        <entry arg="true" endPc="268435638" name="dc" stackId="1" startPc="268435621"/>
+        <entry endPc="268436226" name="height" stackId="4" startPc="268435642"/>
+        <entry endPc="268436226" name="dateStr" stackId="7" startPc="268435642"/>
+        <entry endPc="268436226" name="now" stackId="5" startPc="268435642"/>
+        <entry endPc="268436226" name="width" stackId="3" startPc="268435642"/>
+        <entry endPc="268436226" name="clockTime" stackId="2" startPc="268435642"/>
+        <entry endPc="268436226" name="info" stackId="6" startPc="268435642"/>
+        <entry arg="true" endPc="268436227" name="dc" stackId="1" startPc="268435638"/>
+        <entry arg="true" endPc="268436335" name="menuItem" stackId="1" startPc="268436292"/>
+        <entry arg="true" endPc="268436363" name="state" stackId="1" startPc="268436358"/>
+        <entry arg="true" endPc="268436368" name="state" stackId="1" startPc="268436363"/>
+        <entry endPc="268436472" name="view" stackId="1" startPc="268436387"/>
+        <entry endPc="268436472" name="delegate" stackId="2" startPc="268436387"/>
+        <entry arg="true" endPc="268436565" name="goal" stackId="1" startPc="268436517"/>
+        <entry arg="true" endPc="268437225" name="dc" stackId="1" startPc="268436733"/>
+        <entry endPc="268437608" name="x" stackId="11" startPc="268437485"/>
+        <entry endPc="268437608" name="y" stackId="12" startPc="268437485"/>
+        <entry endPc="268437621" name="i" stackId="10" startPc="268437485"/>
+        <entry endPc="268437624" name="result" stackId="7" startPc="268437229"/>
+        <entry endPc="268437624" name="sin" stackId="9" startPc="268437229"/>
+        <entry endPc="268437624" name="cos" stackId="8" startPc="268437229"/>
+        <entry endPc="268437624" name="coords" stackId="6" startPc="268437229"/>
+        <entry arg="true" endPc="268437625" name="handLength" stackId="3" startPc="268437225"/>
+        <entry arg="true" endPc="268437625" name="tailLength" stackId="4" startPc="268437225"/>
+        <entry arg="true" endPc="268437625" name="width" stackId="5" startPc="268437225"/>
+        <entry arg="true" endPc="268437625" name="angle" stackId="2" startPc="268437225"/>
+        <entry arg="true" endPc="268437625" name="centerPoint" stackId="1" startPc="268437225"/>
+        <entry endPc="268438012" name="eY" stackId="8" startPc="268437749"/>
+        <entry endPc="268438012" name="eX" stackId="10" startPc="268437749"/>
+        <entry endPc="268438012" name="sY" stackId="7" startPc="268437749"/>
+        <entry endPc="268438012" name="sX" stackId="9" startPc="268437749"/>
+        <entry endPc="268438038" name="i" stackId="6" startPc="268437749"/>
+        <entry endPc="268438038" name="innerRad" stackId="5" startPc="268437679"/>
+        <entry endPc="268438038" name="outerRad" stackId="4" startPc="268437679"/>
+        <entry endPc="268438579" name="upperX" stackId="14" startPc="268438134"/>
+        <entry endPc="268438579" name="dx" stackId="13" startPc="268438134"/>
+        <entry endPc="268438592" name="i" stackId="12" startPc="268438134"/>
+        <entry endPc="268438592" name="coords" stackId="11" startPc="268438041"/>
+        <entry endPc="268438592" name="height" stackId="3" startPc="268437629"/>
+        <entry endPc="268438592" name="width" stackId="2" startPc="268437629"/>
+        <entry arg="true" endPc="268438593" name="dc" stackId="1" startPc="268437625"/>
+        <entry endPc="268439879" name="dateDc" stackId="13" startPc="268439806"/>
+        <entry endPc="268440203" name="secondHand" stackId="15" startPc="268440084"/>
+        <entry endPc="268440216" name="screenWidth" stackId="2" startPc="268438597"/>
+        <entry endPc="268440216" name="width" stackId="6" startPc="268438597"/>
+        <entry endPc="268440216" name="font" stackId="11" startPc="268438597"/>
+        <entry endPc="268440216" name="minuteHandAngle" stackId="10" startPc="268438597"/>
+        <entry endPc="268440216" name="clockTime" stackId="3" startPc="268438597"/>
+        <entry endPc="268440216" name="dndIcon" stackId="8" startPc="268438597"/>
+        <entry endPc="268440216" name="dataString" stackId="14" startPc="268438597"/>
+        <entry endPc="268440216" name="dateBuffer" stackId="12" startPc="268438597"/>
+        <entry endPc="268440216" name="targetDc" stackId="4" startPc="268438597"/>
+        <entry endPc="268440216" name="offscreenBuffer" stackId="5" startPc="268438597"/>
+        <entry endPc="268440216" name="hourHandAngle" stackId="9" startPc="268438597"/>
+        <entry endPc="268440216" name="height" stackId="7" startPc="268438597"/>
+        <entry arg="true" endPc="268440217" name="dc" stackId="1" startPc="268438593"/>
+        <entry endPc="268440419" name="dateStr" stackId="5" startPc="268440221"/>
+        <entry endPc="268440419" name="info" stackId="4" startPc="268440221"/>
+        <entry arg="true" endPc="268440420" name="x" stackId="2" startPc="268440217"/>
+        <entry arg="true" endPc="268440420" name="dc" stackId="1" startPc="268440217"/>
+        <entry arg="true" endPc="268440420" name="y" stackId="3" startPc="268440217"/>
+        <entry endPc="268440726" name="bBoxHeight" stackId="7" startPc="268440424"/>
+        <entry endPc="268440726" name="secondHand" stackId="3" startPc="268440424"/>
+        <entry endPc="268440726" name="secondHandPoints" stackId="4" startPc="268440424"/>
+        <entry endPc="268440726" name="bBoxWidth" stackId="6" startPc="268440424"/>
+        <entry endPc="268440726" name="curClip" stackId="5" startPc="268440424"/>
+        <entry endPc="268440726" name="clockTime" stackId="2" startPc="268440424"/>
+        <entry arg="true" endPc="268440727" name="dc" stackId="1" startPc="268440420"/>
+        <entry endPc="268441016" name="i" stackId="4" startPc="268440823"/>
+        <entry endPc="268441043" name="max" stackId="3" startPc="268440731"/>
+        <entry endPc="268441043" name="min" stackId="2" startPc="268440731"/>
+        <entry arg="true" endPc="268441044" name="points" stackId="1" startPc="268440727"/>
+        <entry endPc="268441195" name="height" stackId="3" startPc="268441048"/>
+        <entry endPc="268441195" name="dateBuffer" stackId="5" startPc="268441048"/>
+        <entry endPc="268441195" name="width" stackId="2" startPc="268441048"/>
+        <entry endPc="268441195" name="offscreenBuffer" stackId="4" startPc="268441048"/>
+        <entry arg="true" endPc="268441196" name="dc" stackId="1" startPc="268441044"/>
+        <entry arg="true" endPc="268441290" name="view" stackId="1" startPc="268441257"/>
+        <entry arg="true" endPc="268441373" name="powerInfo" stackId="1" startPc="268441290"/>
+        <entry arg="true" endPc="268441578" name="dc" stackId="1" startPc="268441396"/>
+        <entry endPc="268442028" name="boolean" stackId="2" startPc="268441605"/>
+        <entry endPc="268442028" name="menu" stackId="1" startPc="268441605"/>
+    </localVars>
+    <annotations>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="DoNotDisturbIcon"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="LauncherIcon"/>
+        <annotationEntry annotation="initialized" class="Fonts" module="globals/Rez" symbol="id_font_black_diamond"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="AppName"/>
+    </annotations>
+    <dataEntryOffsetMappings>
+        <dataEntry label="globals" offset="87" parentId="" symbolId="globals" type="module"/>
+        <dataEntry label="globals/AnalogSettingsView" offset="198" parentId="globals" symbolId="AnalogSettingsView" type="class"/>
+        <dataEntry label="globals/AnalogGoalView" offset="253" parentId="globals" symbolId="AnalogGoalView" type="class"/>
+        <dataEntry label="globals/Rez" offset="324" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry label="globals/Rez/Drawables" offset="403" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry label="globals/Rez/Menus" offset="450" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry label="globals/Rez/Fonts" offset="481" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry label="globals/Rez/Layouts" offset="520" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry label="globals/Rez/JsonData" offset="551" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry label="globals/Rez/Strings" offset="582" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry label="globals/AnalogSettingsMenuDelegate" offset="621" parentId="globals" symbolId="AnalogSettingsMenuDelegate" type="class"/>
+        <dataEntry label="globals/AnalogDelegate" offset="676" parentId="globals" symbolId="AnalogDelegate" type="class"/>
+        <dataEntry label="globals/AnalogView" offset="739" parentId="globals" symbolId="AnalogView" type="class"/>
+        <dataEntry label="globals/AnalogSettingsMenu" offset="946" parentId="globals" symbolId="AnalogSettingsMenu" type="class"/>
+        <dataEntry label="globals/AnalogWatch" offset="993" parentId="globals" symbolId="AnalogWatch" type="class"/>
+        <dataEntry label="globals/AnalogSettingsDelegate" offset="1080" parentId="globals" symbolId="AnalogSettingsDelegate" type="class"/>
+    </dataEntryOffsetMappings>
+    <functions>
+        <functionEntry accessMode="public" name="initialize" parent="AnalogGoalView">
+            <param id="goal"/>
+            <documentation>
+                <![CDATA[<div class="description"> Initialize the string to display on the goal view.<br/> <div class="param"> goal The goal triggered</div><br/></div>]]>
+            </documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onLayout" parent="AnalogGoalView">
+            <param id="dc"/>
+            <documentation>
+                <![CDATA[<div class="description"> Load your resources here<br/> <div class="param"> dc Device context</div><br/></div>]]>
+            </documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onUpdate" parent="AnalogGoalView">
+            <param id="dc"/>
+            <documentation>
+                <![CDATA[<div class="description"> Update the clock face graphics<br/> <div class="param"> dc Device Context</div><br/></div>]]>
+            </documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="AnalogSettingsMenu">
+            <documentation>
+                <![CDATA[<div class="description"> Constructor<br/></div>]]>
+            </documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="AnalogSettingsMenuDelegate">
+            <documentation>
+                <![CDATA[<div class="description"> Constructor<br/></div>]]>
+            </documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onSelect" parent="AnalogSettingsMenuDelegate">
+            <param id="menuItem"/>
+            <documentation>
+                <![CDATA[<div class="description"> Handle a menu item being selected<br/> <div class="param"> menuItem The menu item selected</div><br/></div>]]>
+            </documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="AnalogWatch">
+            <documentation>
+                <![CDATA[<div class="description"> Constructor<br/></div>]]>
+            </documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStart" parent="AnalogWatch">
+            <param id="state"/>
+            <documentation>
+                <![CDATA[<div class="description"> Handle app startup<br/> <div class="param"> state Startup arguments</div><br/></div>]]>
+            </documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStop" parent="AnalogWatch">
+            <param id="state"/>
+            <documentation>
+                <![CDATA[<div class="description"> Handle app shutdown<br/> <div class="param"> state Shutdown arguments</div><br/></div>]]>
+            </documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getInitialView" parent="AnalogWatch">
+            <documentation>
+                <![CDATA[<div class="description"> Return the initial view for the app<br/> <div class="returns">Returns  Array Pair [View, Delegate] or Array [View]</div><br/></div>]]>
+            </documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getGoalView" parent="AnalogWatch">
+            <param id="goal"/>
+            <documentation>
+                <![CDATA[<div class="description"> This method runs when a goal is triggered and the goal view is started.<br/> <div class="param"> goal The goal type that triggered</div><br/> <div class="returns">Returns  The view to push</div><br/></div>]]>
+            </documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getSettingsView" parent="AnalogWatch">
+            <documentation>
+                <![CDATA[<div class="description"> Return the settings view and delegate<br/> <div class="returns">Returns  Array Pair [View, Delegate]</div><br/></div>]]>
+            </documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="AnalogView">
+            <documentation>
+                <![CDATA[<div class="description"> Initialize variables for this view<br/></div>]]>
+            </documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onLayout" parent="AnalogView">
+            <param id="dc"/>
+            <documentation>
+                <![CDATA[<div class="description"> Configure the layout of the watchface for this device<br/> <div class="param"> dc Device context</div><br/></div>]]>
+            </documentation>
+        </functionEntry>
+        <functionEntry accessMode="private" name="&lt;globals/AnalogView/&lt;&gt;generateHandCoordinates&gt;" parent="AnalogView">
+            <param id="centerPoint"/>
+            <param id="angle"/>
+            <param id="handLength"/>
+            <param id="tailLength"/>
+            <param id="width"/>
+            <documentation>
+                <![CDATA[<div class="description"> This function is used to generate the coordinates of the 4 corners of the polygon<br/> used to draw a watch hand. The coordinates are generated with specified length,<br/> tail length, and width and rotated around the center point at the provided angle.<br/> 0 degrees is at the 12 o'clock position, and increases in the clockwise direction.<br/> <div class="param"> centerPoint The center of the clock</div><br/> <div class="param"> angle Angle of the hand in radians</div><br/> <div class="param"> handLength The length of the hand from the center to point</div><br/> <div class="param"> tailLength The length of the tail of the hand</div><br/> <div class="param"> width The width of the watch hand</div><br/> <div class="returns">Returns  The coordinates of the watch hand</div><br/></div>]]>
+            </documentation>
+        </functionEntry>
+        <functionEntry accessMode="private" name="&lt;globals/AnalogView/&lt;&gt;drawHashMarks&gt;" parent="AnalogView">
+            <param id="dc"/>
+            <documentation>
+                <![CDATA[<div class="description"> Draws the clock tick marks around the outside edges of the screen.<br/> <div class="param"> dc Device context</div><br/></div>]]>
+            </documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onUpdate" parent="AnalogView">
+            <param id="dc"/>
+            <documentation>
+                <![CDATA[<div class="description"> Handle the update event<br/> <div class="param"> dc Device context</div><br/></div>]]>
+            </documentation>
+        </functionEntry>
+        <functionEntry accessMode="private" name="&lt;globals/AnalogView/&lt;&gt;drawDateString&gt;" parent="AnalogView">
+            <param id="dc"/>
+            <param id="x"/>
+            <param id="y"/>
+            <documentation>
+                <![CDATA[<div class="description"> Draw the date string into the provided buffer at the specified location<br/> <div class="param"> dc Device context</div><br/> <div class="param"> x The x location of the text</div><br/> <div class="param"> y The y location of the text</div><br/></div>]]>
+            </documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onPartialUpdate" parent="AnalogView">
+            <param id="dc"/>
+            <documentation>
+                <![CDATA[<div class="description"> Handle the partial update event<br/> <div class="param"> dc Device context</div><br/></div>]]>
+            </documentation>
+        </functionEntry>
+        <functionEntry accessMode="private" name="&lt;globals/AnalogView/&lt;&gt;getBoundingBox&gt;" parent="AnalogView">
+            <param id="points"/>
+            <documentation>
+                <![CDATA[<div class="description"> Compute a bounding box from the passed in points<br/> <div class="param"> points Points to include in bounding box</div><br/> <div class="returns">Returns  The bounding box points</div><br/></div>]]>
+            </documentation>
+        </functionEntry>
+        <functionEntry accessMode="private" name="&lt;globals/AnalogView/&lt;&gt;drawBackground&gt;" parent="AnalogView">
+            <param id="dc"/>
+            <documentation>
+                <![CDATA[<div class="description"> Draw the watch face background<br/> onUpdate uses this method to transfer newly rendered Buffered Bitmaps<br/> to the main display.<br/> onPartialUpdate uses this to blank the second hand from the previous<br/> second before outputting the new one.<br/> <div class="param"> dc Device context</div><br/></div>]]>
+            </documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onEnterSleep" parent="AnalogView">
+            <documentation>
+                <![CDATA[<div class="description"> This method is called when the device re-enters sleep mode.<br/> Set the isAwake flag to let onUpdate know it should stop rendering the second hand.<br/></div>]]>
+            </documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onExitSleep" parent="AnalogView">
+            <documentation>
+                <![CDATA[<div class="description"> This method is called when the device exits sleep mode.<br/> Set the isAwake flag to let onUpdate know it should render the second hand.<br/></div>]]>
+            </documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" name="turnPartialUpdatesOff" parent="AnalogView">
+            <documentation>
+                <![CDATA[<div class="description"> Turn off partial updates<br/></div>]]>
+            </documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="AnalogDelegate">
+            <param id="view"/>
+            <documentation>
+                <![CDATA[<div class="description"> Constructor<br/> <div class="param"> view The analog view</div><br/></div>]]>
+            </documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onPowerBudgetExceeded" parent="AnalogDelegate">
+            <param id="powerInfo"/>
+            <documentation>
+                <![CDATA[<div class="description"> The onPowerBudgetExceeded callback is called by the system if the<br/> onPartialUpdate method exceeds the allowed power budget. If this occurs,<br/> the system will stop invoking onPartialUpdate each second, so we notify the<br/> view here to let the rendering methods know they should not be rendering a<br/> second hand.<br/> <div class="param"> powerInfo Information about the power budget</div><br/></div>]]>
+            </documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="AnalogSettingsView">
+            <documentation>
+                <![CDATA[<div class="description"> Constructor<br/></div>]]>
+            </documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onUpdate" parent="AnalogSettingsView">
+            <param id="dc"/>
+            <documentation>
+                <![CDATA[<div class="description"> Handle the update event<br/> <div class="param"> dc Device context</div><br/></div>]]>
+            </documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="AnalogSettingsDelegate">
+            <documentation>
+                <![CDATA[<div class="description"> Constructor<br/></div>]]>
+            </documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onMenu" parent="AnalogSettingsDelegate">
+            <documentation>
+                <![CDATA[<div class="description"> Handle the menu event<br/> <div class="returns">Returns  true if handled, false otherwise</div><br/></div>]]>
+            </documentation>
+        </functionEntry>
+    </functions>
+</debugInfo>
